@@ -110,8 +110,8 @@ The dashboard helps identify:
 ---
 
 ## 🖥️ Dashboard Preview
+<img width="944" height="542" alt="Screenshot 2026-09-06 142148" src="https://github.com/user-attachments/assets/b2b27aa7-0c90-4461-aa4d-0c732de2e85d" />
 
-![Superstore Sales Analysis Dashboard](Dashboard_Screenshot.jpg)
 
 ---
 
